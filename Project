@@ -1,0 +1,12 @@
+Developed a computer vision application to detect human faces and eyes from video input using pre-trained Haar cascade classifiers. The project involved:
+
+1)Converting frames to grayscale and enhancing contrast using histogram equalization.
+
+2)Detecting facial regions and overlaying ellipses to highlight identified faces.
+
+3)Detecting eyes within detected face regions and marking them with circles.
+
+4)Successfully processed and displayed detections frame-by-frame for uploaded videos using cv2.VideoCapture and Colab-compatible visualization (cv2_imshow).
+
+5)This project demonstrates foundational expertise in image processing, object detection, and real-time video frame handling with OpenCV.
+
